@@ -2,7 +2,7 @@
 Software Developer | Computer Systems Engineering Student
 
 ## Technologies
-Java, Python, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL  
+Java, Python, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, fastapi, uvicorn
 
 ## Featured Projects
 
